@@ -1,0 +1,16 @@
+p {
+    background-color: lightblue; 
+    overflow: auto; 
+    height: 80px;
+    border: none;
+}
+
+span.d-block {
+    color: red;
+    font-weight: 600;
+}
+
+.top {
+    background-color:#ffd2aa;
+}
+
